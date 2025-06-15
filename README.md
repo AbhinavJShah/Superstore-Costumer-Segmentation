@@ -6,12 +6,6 @@
   <strong>Using K-Means Clustering with Elbow Method and PCA for insightful customer grouping.</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AbhinavJShah/Superstore-Costumer-Segmentation/issues">
-    <img src="https://img.shields.io/github/issues/AbhinavJShah/Superstore-Costumer-Segmentation" alt="GitHub issues">
-  </a>
-</p>
-
 ---
 
 <h2>🚀 Overview</h2>
