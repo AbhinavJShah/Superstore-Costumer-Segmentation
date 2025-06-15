@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/customer-segmentation/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/customer-segmentation?style=social" alt="GitHub stars">
-  </a>
-  &nbsp;
-  <a href="https://github.com/yourusername/customer-segmentation/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/customer-segmentation" alt="GitHub issues">
+  <a href="https://github.com/AbhinavJShah/Superstore-Costumer-Segmentation/issues">
+    <img src="https://img.shields.io/github/issues/AbhinavJShah/Superstore-Costumer-Segmentation" alt="GitHub issues">
   </a>
 </p>
 
